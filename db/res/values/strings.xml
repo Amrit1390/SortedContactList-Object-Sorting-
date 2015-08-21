@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">db</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="name">Name</string>
+    <string name="palce">Place</string>
+    <string name="phone">Phone </string>
+    <string name="street">Street</string>
+    <string name="email">Email</string>
+    <string name="save">Save Conatct</string>
+    <string name="show_list">Show List</string>
+
+</resources>
